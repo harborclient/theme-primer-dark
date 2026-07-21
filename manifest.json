@@ -1,0 +1,30 @@
+{
+  "id": "com.harborclient.plugins.primer-dark",
+  "name": "Primer Dark Theme",
+  "version": "1.0.0",
+  "author": "HarborClient",
+  "description": "README.md",
+  "summary": "A Primer Dark theme for HarborClient.",
+  "categories": ["themes", "dark"],
+  "screenshots": [
+    "https://raw.githubusercontent.com/harborclient/plugin-primer-dark/main/screenshot.png"
+  ],
+  "homepage": "https://github.com/harborclient/plugin-primer-dark",
+  "bugs": {
+    "url": "https://github.com/harborclient/plugin-primer-dark/issues"
+  },
+  "engines": {
+    "harborclient": ">=2.5.0"
+  },
+  "permissions": ["ui"],
+  "contributes": {
+    "themes": [
+      {
+        "id": "primer-dark",
+        "title": "Primer Dark",
+        "type": "dark",
+        "import": "exported.json"
+      }
+    ]
+  }
+}

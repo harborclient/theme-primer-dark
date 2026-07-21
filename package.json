@@ -1,0 +1,14 @@
+{
+  "name": "@harborclient/theme-primer-dark",
+  "type": "module",
+  "scripts": {
+    "release": "bash scripts/publish.sh",
+    "pack": "zip -r ../primer-dark.hcp manifest.json exported.json README.md screenshot.png signature.json",
+    "sign": "node --experimental-strip-types scripts/plugin-sign.ts",
+    "verify": "node --experimental-strip-types scripts/plugin-verify.ts"
+  },
+  "devDependencies": {
+    "@harborclient/sdk": "^1.0.33",
+    "@types/node": "^26.0.1"
+  }
+}

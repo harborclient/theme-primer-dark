@@ -1,0 +1,22 @@
+{
+  "harborclientVersion": 1,
+  "harborclientExport": "theme",
+  "title": "Primer Dark",
+  "type": "dark",
+  "theme": {
+    "surface": "#0d1117",
+    "sidebar": "#161b22",
+    "sidebar-section": "#21262d",
+    "control": "#21262d",
+    "field": "rgba(255, 255, 255, 0.06)",
+    "separator": "rgba(255, 255, 255, 0.1)",
+    "text": "#e6edf3",
+    "text-secondary": "#c9d1d9",
+    "muted": "#8b949e",
+    "accent": "#2f81f7",
+    "selection": "rgba(47, 129, 247, 0.25)",
+    "danger": "#f85149",
+    "warning": "#d29922",
+    "success": "#3fb950"
+  }
+}
