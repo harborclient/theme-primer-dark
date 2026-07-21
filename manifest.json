@@ -1,7 +1,7 @@
 {
   "id": "com.harborclient.plugins.primer-dark",
   "name": "Primer Dark Theme",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": "HarborClient",
   "description": "README.md",
   "summary": "A Github inspired theme for HarborClient.",

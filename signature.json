@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "pluginId": "com.harborclient.plugins.primer-dark",
-  "pluginVersion": "1.0.1",
+  "pluginVersion": "1.0.2",
   "algorithm": "Ed25519",
   "files": [
     {
@@ -14,7 +14,7 @@
     },
     {
       "path": "manifest.json",
-      "sha256": "ae46c71c510e5f4dc9166b491a0464ac07b39e88f7749118a8579299dae41e75"
+      "sha256": "96b2b1a622a9623f132aff602fbe780153f4d4b14de419e03f7150ae01583ca4"
     },
     {
       "path": "package.json",
@@ -46,5 +46,5 @@
     }
   ],
   "keyId": "com.harborclient.plugins.primer-dark",
-  "signature": "ayoJQ6CLZZ9JfyDUfpaGzralLq1qGspEDlENrgoZjLPVM6Kpv1RbSf0yvFGDNcgzBeP+RwbRJhhRjy8lGd48Bw=="
+  "signature": "sG5UMQ0JtDvVRI/n3zgWi+VDe56b/jBQQVh8eDqxM1FjoamGYXokwZoRBmMHt85Ks62uCFMbUZQKgj6XsozADw=="
 }
