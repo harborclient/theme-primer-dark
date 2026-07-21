@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "author": "HarborClient",
   "description": "README.md",
-  "summary": "A Primer Dark theme for HarborClient.",
+  "summary": "A Github inspired theme for HarborClient.",
   "categories": ["themes", "dark"],
   "screenshots": [
     "https://raw.githubusercontent.com/harborclient/plugin-primer-dark/main/screenshot.png"
